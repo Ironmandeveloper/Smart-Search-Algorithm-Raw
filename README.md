@@ -1,4 +1,4 @@
-# Smart Search API
+# Smart-Search-Algorithm-Raw
 
 This is a Node.js project that provides an API to extract entities such as cities, brands, dish types, and diets from a given search term. The entities are stored in a MySQL database.
 
